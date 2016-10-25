@@ -16,8 +16,21 @@ Extend a channel
 
 .. figure:: images/extend_channel_move_node.jpg
 
-*Connect the network element you just modified with the one it connected to ((see the :ref:`connect-wastewater-network-elements` section) ) 
+*Connect the network element you just modified with the one it is connected to (see the :ref:`connect-wastewater-network-elements` section).
 
 Continue a channel 
 ------
+*Switch the layer **vw_qgep_reach** to edit mode.
+*Select the channel feature you want to continue and Click on the **Reshape Features** button in the toolbar. 
 
+.. figure:: images/continue_channel_reshape_tool_button.jpg
+
+*Continue to digitize your channel from the last network node until real close of the network element you want to connect it to. Don't connect it directly to the network element!
+
+.. figure:: images/continue_channel_reshape_tool.jpg
+
+*Click on the **Node tool** button in the toolbar, select the last network node of the channel and connect it to a wastewater structure or an other channel.
+
+.. figure:: images/continue_channel_reshape_tool_move_node.jpg
+
+*Connect the network element you just modified with the one it is connected to (see the :ref:`connect-wastewater-network-elements` section). 
