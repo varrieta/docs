@@ -38,6 +38,10 @@ future depending on the **ws_type**)
 
 .. figure:: images/wizard_wastewater_structure_manhole_form_data_manhole_function.jpg
 
+You can add files (pictures, pdf files, etc.) to the wastewater structure in the **Files** tab. To do so, toggle the **od_file** layer in editing mode and click on the **Add child feature** button on the **Files** tab. Insert the path to the file in the **identifer** attribute. 
+
+.. figure:: images/wizard_wastewater_structure_manhole_form_picture.jpg
+
 Add other attributes in the **General** tab. Now you can click OK.
 
 .. figure:: images/wizard_wastewater_structure_manhole_form_data_ok.jpg
