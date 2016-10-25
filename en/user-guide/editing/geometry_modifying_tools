@@ -1,0 +1,23 @@
+.. _editing-geometry:
+
+Editing of existing linear geometry
+========================
+
+This represents a guide on how to edit existing linear geometry (channel) in QGEP by using the **Advanced Digitizing Toolbar**
+
+Extend a channel 
+------
+*Switch the layer **vw_qgep_reach** to edit mode.
+*Click on the **Node tool** button in the toolbar and select the node you need to move to extend the channel
+
+.. figure:: images/extend_channel_move_node_button.jpg
+
+*Move the node and connect it to an other reach (if it is a secondary channel connecting to a primary one) or to a  wastewater structure 
+
+.. figure:: images/extend_channel_move_node.jpg
+
+*Connect the network element you just modified with the one it connected to ((see the :ref:`connect-wastewater-network-elements` section) ) 
+
+Continue a channel 
+------
+
