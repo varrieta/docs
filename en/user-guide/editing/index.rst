@@ -7,6 +7,7 @@ This represents a guide on how to add and edit data in QGEP.
    :maxdepth: 2
 
    editing
+   geometry_identifying_tool
    moving
    maintenance_events
    connect_wastewater_network_elements
