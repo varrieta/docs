@@ -51,6 +51,16 @@ Delete Covers
 * Click save on the form
 * Deselect the edit mode and confirm changes to layer. All changes will be saved to database.
 
+Delete structure detailed geometry
+----------------------------------
+
+* Select **od_wastewater_structure** and change to edit mode
+* Select the detailed geometry you want to delete
+* Use the top menu **Edit** --> **Delete Part** to delete. 
+* Stop the editing mode and confirm changes to layer. All changes will be saved to database.
+
+**WARNING**: do not use the the **Delete selected" tool, otherwise the whole structure will be deleted.
+
 Delete Structure parts
 ----------------------
 
